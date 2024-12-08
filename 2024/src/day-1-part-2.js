@@ -1,4 +1,4 @@
-import data from "../data/day-1-part-1.json" assert { type: 'json' };
+import data from "../data/day-1.json" assert { type: 'json' };
 
 export function getSimilarityScore(arr1, arr2) {
     return arr1
